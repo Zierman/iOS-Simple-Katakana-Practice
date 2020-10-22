@@ -14,6 +14,7 @@
 		42E9A5B0254214D80099396C /* Katakana.json in Resources */ = {isa = PBXBuildFile; fileRef = 42E9A5AF254214D80099396C /* Katakana.json */; };
 		42E9A5B625421F380099396C /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 42E9A5B425421F380099396C /* LICENSE */; };
 		42E9A5B725421F380099396C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 42E9A5B525421F380099396C /* README.md */; };
+		42E9A5BC2542215F0099396C /* Katakana.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E9A5BB2542215F0099396C /* Katakana.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		42E9A5AF254214D80099396C /* Katakana.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Katakana.json; sourceTree = "<group>"; };
 		42E9A5B425421F380099396C /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		42E9A5B525421F380099396C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		42E9A5BB2542215F0099396C /* Katakana.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Katakana.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 			children = (
 				42E9A5B425421F380099396C /* LICENSE */,
 				42E9A5B525421F380099396C /* README.md */,
+				42E9A5BA254220410099396C /* Models */,
 				42E9A5B2254215350099396C /* Resources */,
 				42E9A59E254214310099396C /* SimpleKatakanaPractice */,
 				42E9A59D254214310099396C /* Products */,
@@ -84,6 +87,14 @@
 				42E9A5AF254214D80099396C /* Katakana.json */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		42E9A5BA254220410099396C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				42E9A5BB2542215F0099396C /* Katakana.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -160,6 +171,7 @@
 			files = (
 				42E9A5A2254214310099396C /* ContentView.swift in Sources */,
 				42E9A5A0254214310099396C /* SimpleKatakanaPracticeApp.swift in Sources */,
+				42E9A5BC2542215F0099396C /* Katakana.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
