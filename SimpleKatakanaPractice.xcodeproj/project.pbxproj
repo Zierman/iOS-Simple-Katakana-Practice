@@ -15,6 +15,9 @@
 		42E9A5B625421F380099396C /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 42E9A5B425421F380099396C /* LICENSE */; };
 		42E9A5B725421F380099396C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 42E9A5B525421F380099396C /* README.md */; };
 		42E9A5BC2542215F0099396C /* Katakana.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E9A5BB2542215F0099396C /* Katakana.swift */; };
+		42E9A5C025422CEA0099396C /* AppData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E9A5BF25422CEA0099396C /* AppData.swift */; };
+		42E9A5C325422F830099396C /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E9A5C225422F830099396C /* Queue.swift */; };
+		42E9A5C725423DCF0099396C /* AutoFocusTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42E9A5C625423DCF0099396C /* AutoFocusTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		42E9A5B425421F380099396C /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		42E9A5B525421F380099396C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		42E9A5BB2542215F0099396C /* Katakana.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Katakana.swift; sourceTree = "<group>"; };
+		42E9A5BF25422CEA0099396C /* AppData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppData.swift; sourceTree = "<group>"; };
+		42E9A5C225422F830099396C /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
+		42E9A5C625423DCF0099396C /* AutoFocusTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoFocusTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +75,9 @@
 				42E9A5A3254214320099396C /* Assets.xcassets */,
 				42E9A5A8254214320099396C /* Info.plist */,
 				42E9A5A5254214320099396C /* Preview Content */,
+				42E9A5BF25422CEA0099396C /* AppData.swift */,
+				42E9A5C225422F830099396C /* Queue.swift */,
+				42E9A5C625423DCF0099396C /* AutoFocusTextField.swift */,
 			);
 			path = SimpleKatakanaPractice;
 			sourceTree = "<group>";
@@ -170,8 +179,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				42E9A5A2254214310099396C /* ContentView.swift in Sources */,
+				42E9A5C725423DCF0099396C /* AutoFocusTextField.swift in Sources */,
 				42E9A5A0254214310099396C /* SimpleKatakanaPracticeApp.swift in Sources */,
 				42E9A5BC2542215F0099396C /* Katakana.swift in Sources */,
+				42E9A5C025422CEA0099396C /* AppData.swift in Sources */,
+				42E9A5C325422F830099396C /* Queue.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
