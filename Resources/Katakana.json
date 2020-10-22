@@ -1,0 +1,679 @@
+[
+    {
+        "katakana": "ア",
+        "id": 1,
+        "phonetic": ["a"]
+    },
+    
+    {
+        "katakana": "イ",
+        "id": ,
+        "phonetic": ["i"]
+    },
+    
+    {
+        "katakana": "ウ",
+        "id": ,
+        "phonetic": ["u"]
+    },
+    
+    {
+        "katakana": "エ",
+        "id": ,
+        "phonetic": ["e"]
+    },
+    
+    {
+        "katakana": "オ",
+        "id": ,
+        "phonetic": ["o"]
+    },
+    
+    {
+        "katakana": "カ",
+        "id": ,
+        "phonetic": ["ka"]
+    },
+    
+    {
+        "katakana": "キ",
+        "id": ,
+        "phonetic": ["ki"]
+    },
+    
+    {
+        "katakana": "ク",
+        "id": ,
+        "phonetic": ["ku"]
+    },
+    
+    {
+        "katakana": "ケ",
+        "id": ,
+        "phonetic": ["ke"]
+    },
+    
+    {
+        "katakana": "コ",
+        "id": ,
+        "phonetic": ["ko"]
+    },
+    
+    {
+        "katakana": "ガ",
+        "id": ,
+        "phonetic": ["ga"]
+    },
+    
+    {
+        "katakana": "ギ",
+        "id": ,
+        "phonetic": ["gi"]
+    },
+    
+    {
+        "katakana": "グ",
+        "id": ,
+        "phonetic": ["gu"]
+    },
+    
+    {
+        "katakana": "ゲ",
+        "id": ,
+        "phonetic": ["ge"]
+    },
+    
+    {
+        "katakana": "ゴ",
+        "id": ,
+        "phonetic": ["go"]
+    },
+    
+    {
+        "katakana": "サ",
+        "id": ,
+        "phonetic": ["sa"]
+    },
+    
+    {
+        "katakana": "シ",
+        "id": ,
+        "phonetic": ["si", "shi"]
+    },
+    
+    {
+        "katakana": "ス",
+        "id": ,
+        "phonetic": ["su"]
+    },
+    
+    {
+        "katakana": "セ",
+        "id": ,
+        "phonetic": ["se"]
+    },
+    
+    {
+        "katakana": "ソ",
+        "id": ,
+        "phonetic": ["so"]
+    },
+    
+    {
+        "katakana": "ザ",
+        "id": ,
+        "phonetic": ["za"]
+    },
+    
+    {
+        "katakana": "ジ",
+        "id": ,
+        "phonetic": ["zi", "ji"]
+    },
+    
+    {
+        "katakana": "ズ",
+        "id": ,
+        "phonetic": ["zu"]
+    },
+    
+    {
+        "katakana": "ゼ",
+        "id": ,
+        "phonetic": ["ze"]
+    },
+    
+    {
+        "katakana": "ゾ",
+        "id": ,
+        "phonetic": ["zo"]
+    },
+    
+    {
+        "katakana": "タ",
+        "id": ,
+        "phonetic": ["ta"]
+    },
+    
+    {
+        "katakana": "チ",
+        "id": ,
+        "phonetic": ["ti", "chi"]
+    },
+    
+    {
+        "katakana": "ツ",
+        "id": ,
+        "phonetic": ["tu", "tsu"]
+    },
+    
+    {
+        "katakana": "テ",
+        "id": ,
+        "phonetic": ["te"]
+    },
+    
+    {
+        "katakana": "ト",
+        "id": ,
+        "phonetic": ["to"]
+    },
+    
+    {
+        "katakana": "ダ",
+        "id": ,
+        "phonetic": ["da"]
+    },
+    
+    {
+        "katakana": "ヂ",
+        "id": ,
+        "phonetic": ["di", "ji"]
+    },
+    
+    {
+        "katakana": "ヅ",
+        "id": ,
+        "phonetic": ["du", "zu"]
+    },
+    
+    {
+        "katakana": "デ",
+        "id": ,
+        "phonetic": ["de"]
+    },
+    
+    {
+        "katakana": "ド",
+        "id": ,
+        "phonetic": ["do"]
+    },
+    
+    {
+        "katakana": "ナ",
+        "id": ,
+        "phonetic": ["na"]
+    },
+    
+    {
+        "katakana": "ニ",
+        "id": ,
+        "phonetic": ["ni"]
+    },
+    
+    {
+        "katakana": "ヌ",
+        "id": ,
+        "phonetic": ["nu"]
+    },
+    
+    {
+        "katakana": "ネ",
+        "id": ,
+        "phonetic": ["ne"]
+    },
+    
+    {
+        "katakana": "ノ",
+        "id": ,
+        "phonetic": ["no"]
+    },
+    
+    {
+        "katakana": "ハ",
+        "id": ,
+        "phonetic": ["ha"]
+    },
+    
+    {
+        "katakana": "ヒ",
+        "id": ,
+        "phonetic": ["hi"]
+    },
+    
+    {
+        "katakana": "フ",
+        "id": ,
+        "phonetic": ["hu", "fu"]
+    },
+    
+    {
+        "katakana": "ヘ",
+        "id": ,
+        "phonetic": ["he"]
+    },
+    
+    {
+        "katakana": "ホ",
+        "id": ,
+        "phonetic": ["ho"]
+    },
+    
+    {
+        "katakana": "バ",
+        "id": ,
+        "phonetic": ["ba"]
+    },
+    
+    {
+        "katakana": "ビ",
+        "id": ,
+        "phonetic": ["bi"]
+    },
+    
+    {
+        "katakana": "ブ",
+        "id": ,
+        "phonetic": ["bu"]
+    },
+    
+    {
+        "katakana": "ベ",
+        "id": ,
+        "phonetic": ["be"]
+    },
+    
+    {
+        "katakana": "ボ",
+        "id": ,
+        "phonetic": ["bo"]
+    },
+    
+    {
+        "katakana": "パ",
+        "id": ,
+        "phonetic": ["pa"]
+    },
+    
+    {
+        "katakana": "ピ",
+        "id": ,
+        "phonetic": ["pi"]
+    },
+    
+    {
+        "katakana": "プ",
+        "id": ,
+        "phonetic": ["pu"]
+    },
+    
+    {
+        "katakana": "ペ",
+        "id": ,
+        "phonetic": ["pe"]
+    },
+    
+    {
+        "katakana": "ポ",
+        "id": ,
+        "phonetic": ["po"]
+    },
+    
+    {
+        "katakana": "マ",
+        "id": ,
+        "phonetic": ["ma"]
+    },
+    
+    {
+        "katakana": "ミ",
+        "id": ,
+        "phonetic": ["mi"]
+    },
+    
+    {
+        "katakana": "ム",
+        "id": ,
+        "phonetic": ["mu"]
+    },
+    
+    {
+        "katakana": "メ",
+        "id": ,
+        "phonetic": ["me"]
+    },
+    
+    {
+        "katakana": "モ",
+        "id": ,
+        "phonetic": ["mo"]
+    },
+    
+    {
+        "katakana": "ヤ",
+        "id": ,
+        "phonetic": ["ya"]
+    },
+    
+    {
+        "katakana": "ユ",
+        "id": ,
+        "phonetic": ["yu"]
+    },
+    
+    {
+        "katakana": "ヨ",
+        "id": ,
+        "phonetic": ["yo"]
+    },
+    
+    {
+        "katakana": "ラ",
+        "id": ,
+        "phonetic": ["ra"]
+    },
+    
+    {
+        "katakana": "リ",
+        "id": ,
+        "phonetic": ["ri"]
+    },
+    
+    {
+        "katakana": "ル",
+        "id": ,
+        "phonetic": ["ru"]
+    },
+    
+    {
+        "katakana": "レ",
+        "id": ,
+        "phonetic": ["re"]
+    },
+    
+    {
+        "katakana": "ロ",
+        "id": ,
+        "phonetic": ["ro"]
+    },
+    
+    {
+        "katakana": "ワ",
+        "id": ,
+        "phonetic": ["wa"]
+    },
+    
+    {
+        "katakana": "ヲ",
+        "id": ,
+        "phonetic": ["wo", "o"]
+    },
+    
+    {
+        "katakana": "ン",
+        "id": ,
+        "phonetic": ["n"]
+    },
+    
+    {
+        "katakana": "キャ",
+        "id": ,
+        "phonetic": ["kya"]
+    },
+    
+    {
+        "katakana": "キュ",
+        "id": ,
+        "phonetic": ["kyu"]
+    },
+    
+    {
+        "katakana": "キョ",
+        "id": ,
+        "phonetic": ["kyo"]
+    },
+    
+    {
+        "katakana": "シャ",
+        "id": ,
+        "phonetic": ["sha"]
+    },
+    
+    {
+        "katakana": "シュ",
+        "id": ,
+        "phonetic": ["shu"]
+    },
+    
+    {
+        "katakana": "ショ",
+        "id": ,
+        "phonetic": ["sho"]
+    },
+    
+    {
+        "katakana": "チャ",
+        "id": ,
+        "phonetic": ["cha"]
+    },
+    
+    {
+        "katakana": "チュ",
+        "id": ,
+        "phonetic": ["chu"]
+    },
+    
+    {
+        "katakana": "チョ",
+        "id": ,
+        "phonetic": ["cho"]
+    },
+    
+    {
+        "katakana": "ニャ",
+        "id": ,
+        "phonetic": ["nya"]
+    },
+    
+    {
+        "katakana": "ニュ",
+        "id": ,
+        "phonetic": ["nyu"]
+    },
+    
+    {
+        "katakana": "ニョ",
+        "id": ,
+        "phonetic": ["nyo"]
+    },
+    
+    {
+        "katakana": "ヒャ",
+        "id": ,
+        "phonetic": ["hya"]
+    },
+    
+    {
+        "katakana": "ヒュ",
+        "id": ,
+        "phonetic": ["hyu"]
+    },
+    
+    {
+        "katakana": "ヒョ",
+        "id": ,
+        "phonetic": ["hyo"]
+    },
+    
+    {
+        "katakana": "ミャ",
+        "id": ,
+        "phonetic": ["mya"]
+    },
+    
+    {
+        "katakana": "ミュ",
+        "id": ,
+        "phonetic": ["myu"]
+    },
+    
+    {
+        "katakana": "ミョ",
+        "id": ,
+        "phonetic": ["myo"]
+    },
+    
+    {
+        "katakana": "リャ",
+        "id": ,
+        "phonetic": ["rya"]
+    },
+    
+    {
+        "katakana": "リュ",
+        "id": ,
+        "phonetic": ["ryu"]
+    },
+    
+    {
+        "katakana": "リョ",
+        "id": ,
+        "phonetic": ["ryo"]
+    },
+    
+    {
+        "katakana": "ギャ",
+        "id": ,
+        "phonetic": ["gya"]
+    },
+    
+    {
+        "katakana": "ギュ",
+        "id": ,
+        "phonetic": ["gyu"]
+    },
+    
+    {
+        "katakana": "ギョ",
+        "id": ,
+        "phonetic": ["gyo"]
+    },
+    
+    {
+        "katakana": "ジャ",
+        "id": ,
+        "phonetic": ["ja"]
+    },
+    
+    {
+        "katakana": "ジュ",
+        "id": ,
+        "phonetic": ["ju"]
+    },
+    
+    {
+        "katakana": "ジョ",
+        "id": ,
+        "phonetic": ["jo"]
+    },
+    
+    {
+        "katakana": "チャ",
+        "id": ,
+        "phonetic": ["cha", "ja"]
+    },
+    
+    {
+        "katakana": "チュ",
+        "id": ,
+        "phonetic": ["chu", "ju"]
+    },
+    
+    {
+        "katakana": "チョ",
+        "id": ,
+        "phonetic": ["cho", "jo"]
+    },
+    
+    {
+        "katakana": "ビャ",
+        "id": ,
+        "phonetic": ["bya"]
+    },
+    
+    {
+        "katakana": "ビュ",
+        "id": ,
+        "phonetic": ["byu"]
+    },
+    
+    {
+        "katakana": "ビョ",
+        "id": ,
+        "phonetic": ["byo"]
+    },
+    
+    {
+        "katakana": "ピャ",
+        "id": ,
+        "phonetic": ["pya"]
+    },
+    
+    {
+        "katakana": "ピュ",
+        "id": ,
+        "phonetic": ["pyu"]
+    },
+    
+    {
+        "katakana": "ピョ",
+        "id": ,
+        "phonetic": ["pyo"]
+    },
+    
+    {
+        "katakana": "ヴィ",
+        "id": ,
+        "phonetic": ["vi"]
+    },
+    
+    {
+        "katakana": "ファ",
+        "id": ,
+        "phonetic": ["fa"]
+    },
+    
+    {
+        "katakana": "ティ",
+        "id": ,
+        "phonetic": ["ti"]
+    },
+    
+    {
+        "katakana": "ドゥ",
+        "id": ,
+        "phonetic": ["du"]
+    },
+    
+    {
+        "katakana": "ウェ",
+        "id": ,
+        "phonetic": ["we"]
+    },
+    
+    {
+        "katakana": "フォ",
+        "id": ,
+        "phonetic": ["fo"]
+    }
+]
